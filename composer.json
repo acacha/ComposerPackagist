@@ -1,9 +1,8 @@
 {
-    "name": "acacha/xorradapaquet",
+    "name": "acacha/hello-ng",
     "description": "bla bla",
     "require": {
-        "fzaninotto/faker": "^1.7",
-        "laravel/framework": "^5.5"
+        "fzaninotto/faker": "^1.7"
     },
     "authors": [
         {
