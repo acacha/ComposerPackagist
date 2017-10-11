@@ -1,0 +1,14 @@
+{
+    "name": "acacha/xorradapaquet",
+    "description": "bla bla",
+    "require": {
+        "fzaninotto/faker": "^1.7",
+        "laravel/framework": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "Sergi Tur Badenas",
+            "email": "sergiturbadenas@gmail.com"
+        }
+    ]
+}
