@@ -1,8 +1,17 @@
 <?php
 
+namespace Acacha;
+
+use Faker\Factory;
+
+/**
+ * Class Hello.
+ *
+ * @package Acacha
+ */
 class Hello {
     public function hello() {
-        $faker = Faker\Factory::create();
+        $faker = Factory::create();
         echo 'Hola ' . $faker->name;
     }
 }

@@ -5,7 +5,9 @@
         "fzaninotto/faker": "^1.7"
     },
     "autoload": {
-      "files": "src/Hello.php"
+      "psr-4": {
+          "Acacha": "src/"
+      }
     },
     "authors": [
         {
